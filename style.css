@@ -16,8 +16,11 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 1rem;
   color: #e2dbdb;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  
 }
 hr {
   border-color: #F05F44;
