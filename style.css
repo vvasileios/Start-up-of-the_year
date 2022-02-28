@@ -15,6 +15,10 @@ h1 {
   color: #e2dbdb;
 }
 
+p {
+  font-size: 2rem;
+  color: #e2dbdb;
+}
 hr {
   border-color: #F05F44;
   border-width: 3px;
